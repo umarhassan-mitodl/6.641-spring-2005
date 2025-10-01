@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "fe817204-e37d-9545-f34f-2f56779a904d",
+  "instructors": {
+    "content": [
+      "563af061-106b-b1e4-e8d2-bc3d6873e258"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1dfbeabb-4b56-bab5-fb14-bf5f1b65ba9f",
+    "website": "6-641-electromagnetic-fields-forces-and-motion-spring-2005"
+  },
+  "course_title": "Electromagnetic Fields, Forces, and Motion",
+  "hide_download": true,
+  "course_description": "6.641 examines electric and magnetic quasistatic forms of Maxwell's equations applied to dielectric, conduction, and magnetization boundary value problems. Topics covered include: electromagnetic forces, force densities, and stress tensors, including magnetization and polarization; thermodynamics of electromagnetic fields, equations of motion, and energy conservation; applications to synchronous, induction, and commutator machines; sensors and transducers; microelectromechanical systems; propagation and stability of electromechanical waves; and charge transport phenomena.\n\n##### Acknowledgement\n\nThe instructor would like to thank Thomas Larsen for transcribing into LaTeX selected homework problems, homework solutions, and exams.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.641",
+  "course_image_thumbnail": {
+    "content": "aeee3ee4-82d1-26ef-d633-af066a97002e",
+    "website": "6-641-electromagnetic-fields-forces-and-motion-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "996492aa-c2be-4998-aa58-c01040b185c0",
+  "site_short_id": "6.641-spring-2005",
+  "site_url_path": "courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005",
+  "title": "Course Metadata"
+}
